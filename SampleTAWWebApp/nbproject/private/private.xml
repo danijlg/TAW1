@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="JADE">
+            <file>file:/Users/guzman/Documents/SampleTAWWebApp/src/java/sampletawwebapp/servlet/ServletCustomerBorrar.java</file>
+            <file>file:/Users/guzman/Documents/SampleTAWWebApp/web/autentica.jsp</file>
+            <file>file:/Users/guzman/Documents/SampleTAWWebApp/src/java/sampletawwebapp/entity/Customer.java</file>
+            <file>file:/Users/guzman/Documents/SampleTAWWebApp/src/java/sampletawwebapp/servlet/ServletCustomerCrearEditar.java</file>
+            <file>file:/Users/guzman/Documents/SampleTAWWebApp/src/java/sampletawwebapp/servlet/ServletAutenticar.java</file>
+            <file>file:/Users/guzman/Documents/SampleTAWWebApp/src/java/sampletawwebapp/servlet/ServletSalir.java</file>
+            <file>file:/Users/guzman/Documents/SampleTAWWebApp/web/customer.jsp</file>
+            <file>file:/Users/guzman/Documents/SampleTAWWebApp/web/WEB-INF/web.xml</file>
+            <file>file:/Users/guzman/Documents/SampleTAWWebApp/web/customer_list.jsp</file>
+            <file>file:/Users/guzman/Documents/SampleTAWWebApp/src/java/sampletawwebapp/servlet/ServletCustomerGuardar.java</file>
+            <file>file:/Users/guzman/Documents/SampleTAWWebApp/src/java/sampletawwebapp/entity/Administrador.java</file>
+            <file>file:/Users/guzman/Documents/SampleTAWWebApp/src/java/sampletawwebapp/dao/AdministradorFacade.java</file>
+            <file>file:/Users/guzman/Documents/SampleTAWWebApp/src/java/sampletawwebapp/dao/CustomerFacade.java</file>
+            <file>file:/Users/guzman/Documents/SampleTAWWebApp/web/cabecera.jsp</file>
+            <file>file:/Users/guzman/Documents/SampleTAWWebApp/src/java/sampletawwebapp/servlet/ServletCustomerListar.java</file>
+        </group>
+    </open-files>
+</project-private>
